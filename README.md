@@ -11,4 +11,5 @@ What is the curriculum learning?
 
 	cifar100_kmeans.py: data clustering. 
 
+
 Using k-means for clustering data hierarchically is quite simple. You can use [deep learning](https://github.com/elieJalbout/Clustering-with-Deep-learning) for clustering process.
